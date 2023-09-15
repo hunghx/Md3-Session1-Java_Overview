@@ -1,0 +1,188 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "JAVA CORE",
+      "id": 1,
+      "attr": {
+        "position": [
+          -708,
+          -199,
+          1
+        ],
+        "style": {
+          "text": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "SS1 - Overview",
+          "id": "2.f87a.57d41aa45-bc0d.812855cf8",
+          "ideas": {
+            "1": {
+              "title": "Các khái niêm chính",
+              "id": "6.f87a.57d41aa45-bc0d.812855cf8",
+              "ideas": {
+                "1": {
+                  "title": "Ngôn ngữ java là lập trình hướng đối tượng ",
+                  "id": "10.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "2": {
+                  "title": "JVM  -  Máy ảo dùng để thực thi chương trình java",
+                  "id": "11.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "3": {
+                  "title": "JRE - Là bộ quản lí các tài nguyên cung cấp cho JVM thực thi chương trình",
+                  "id": "12.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "4": {
+                  "title": "JDK - Bộ công cụ để phát triển ứng dụng java (nên dùng bản 8)",
+                  "id": "13.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "5": {
+                  "title": "Sử IDE IntelliJ để lập trình Java",
+                  "id": "14.f87a.57d41aa45-bc0d.812855cf8"
+                }
+              }
+            },
+            "2": {
+              "title": "Biến và kiểu dữ liệu (Variable and Data Types)",
+              "id": "7.f87a.57d41aa45-bc0d.812855cf8",
+              "ideas": {
+                "1": {
+                  "title": "Biến là gì ? ",
+                  "id": "18.f87a.57d41aa45-bc0d.812855cf8",
+                  "ideas": {
+                    "1": {
+                      "title": "Dùng để lưu trữ dữ liệu trong lập trình",
+                      "id": "19.f87a.57d41aa45-bc0d.812855cf8"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Có 2 nhóm kiểu dữ liệu chính",
+                  "id": "20.f87a.57d41aa45-bc0d.812855cf8",
+                  "ideas": {
+                    "1": {
+                      "title": "Nhóm kiểu dữ liệu nguyên thủy (primitive)",
+                      "id": "22.f87a.57d41aa45-bc0d.812855cf8",
+                      "ideas": {
+                        "1": {
+                          "title": "int , float, boolean, double, long , byte, char ...",
+                          "id": "24.f87a.57d41aa45-bc0d.812855cf8"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Nhóm kiểu dữ liệu tham chiếu (References)",
+                      "id": "23.f87a.57d41aa45-bc0d.812855cf8",
+                      "ideas": {
+                        "1": {
+                          "title": "Các kiểu dạng class ",
+                          "id": "25.f87a.57d41aa45-bc0d.812855cf8"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Nhập xuất dữ liệu trong màn hình console (input/ ouput)",
+              "id": "8.f87a.57d41aa45-bc0d.812855cf8",
+              "ideas": {
+                "1": {
+                  "title": "Output",
+                  "id": "15.f87a.57d41aa45-bc0d.812855cf8",
+                  "ideas": {
+                    "1": {
+                      "title": "System.out.println()",
+                      "id": "16.f87a.57d41aa45-bc0d.812855cf8"
+                    },
+                    "2": {
+                      "title": "System.err.println()",
+                      "id": "17.f87a.57d41aa45-bc0d.812855cf8"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Input",
+                  "id": "26.f87a.57d41aa45-bc0d.812855cf8",
+                  "ideas": {
+                    "1": {
+                      "title": "Scanner sc = new Scanner(System.)",
+                      "id": "27.f87a.57d41aa45-bc0d.812855cf8"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Toán tử (operators)",
+              "id": "9.f87a.57d41aa45-bc0d.812855cf8",
+              "ideas": {
+                "1": {
+                  "title": "Toán tử số học",
+                  "id": "28.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "2": {
+                  "title": "1 ngôi ",
+                  "id": "29.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "3": {
+                  "title": "logic",
+                  "id": "32.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "4": {
+                  "title": "3 ngôi ",
+                  "id": "33.f87a.57d41aa45-bc0d.812855cf8",
+                  "ideas": {}
+                }
+              }
+            }
+          }
+        },
+        "-1": {
+          "title": "SS2 - Câu lệnh điều kiện ",
+          "id": "31.f87a.57d41aa45-bc0d.812855cf8",
+          "ideas": {
+            "1": {
+              "title": "if ... else",
+              "id": "35.f87a.57d41aa45-bc0d.812855cf8",
+              "ideas": {
+                "1": {
+                  "title": "if",
+                  "id": "37.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "2": {
+                  "title": "if esle",
+                  "id": "38.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "3": {
+                  "title": "bậc thang",
+                  "id": "39.f87a.57d41aa45-bc0d.812855cf8"
+                },
+                "4": {
+                  "title": "lồng nhau",
+                  "id": "40.f87a.57d41aa45-bc0d.812855cf8"
+                }
+              }
+            },
+            "2": {
+              "title": "switch ... case",
+              "id": "36.f87a.57d41aa45-bc0d.812855cf8"
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "JAVA CORE",
+  "attr": {
+    "theme": "default"
+  },
+  "links": []
+}
